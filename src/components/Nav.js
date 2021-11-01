@@ -1,10 +1,10 @@
 import React from "react";
 import { Text, Flex,Button,Heading } from "@chakra-ui/react";
 import {
-	BrowserRouter as Router,
-	Route,
+	// BrowserRouter as Router,
+	// Route,
 	Link,
-	Switch
+	// Switch
 } from 'react-router-dom';
 function Nav() {
   return (

@@ -4,17 +4,17 @@ import {
     Table,
     Thead,
     Tbody,
-    Tfoot,
+    // Tfoot,
     Tr,
     Th,
     Td,
-    TableCaption,
+    // TableCaption,
   } from "@chakra-ui/react"
   import {
-    BrowserRouter as Router,
-    Route,
+    // BrowserRouter as Router,
+    // Route,
     Link,
-    Switch
+    // Switch
   } from 'react-router-dom';
 
 function DTable() {
